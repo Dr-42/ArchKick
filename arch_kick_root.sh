@@ -1,4 +1,4 @@
-pacman -S --needed android-studio \
+pacman -S --needed \
   appmenu-gtk-module \
   ark \
   assimp \

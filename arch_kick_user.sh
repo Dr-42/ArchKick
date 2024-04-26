@@ -1,4 +1,4 @@
-rustup update
+rustup install stable
 cargo install offflix
 cargo install builder_cpp
 git clone https://github.com/Dr-42/dotfiles
